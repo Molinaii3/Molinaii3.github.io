@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "How can we make Booleans easier???"
-date:       2020-03-03 02:39:15 +0000
+date:       2020-03-02 21:39:16 -0500
 permalink:  how_can_we_make_booleans_easier
 ---
 
